@@ -1,6 +1,3 @@
 # Simple Portfolio
-For new learners, learn html, css and build your first website. 
 
-### A website for Programming Hero learners
-
-To learn all these concepts as a absolute beginners, checkout: [Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)
+Module 4 of the [Programming Hero](https://github.com/ProgrammingHero1/simple-portfolio/) app on [iOS](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp) takes you through making a basic, yet nice-looking portfolio. This repo contains my finished portfolio from this module.
